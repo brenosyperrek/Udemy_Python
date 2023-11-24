@@ -1,1 +1,2 @@
-print("Hello World!!")
+frase = "Hello World!!"
+print(frase)
