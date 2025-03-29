@@ -4,4 +4,3 @@ print('Hello Python!')
 10 / 3
 20//7
 # %%
-jj
